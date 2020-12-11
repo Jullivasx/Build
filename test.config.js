@@ -1,0 +1,6 @@
+Build.config = [
+    [
+        '$.js',
+        'test',
+    ],
+]
